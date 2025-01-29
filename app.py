@@ -11,6 +11,7 @@ from flask import Flask, request, jsonify
 from flask_cors import CORS
 from dotenv import load_dotenv
 import json
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 load_dotenv()
 
@@ -83,11 +84,11 @@ def rag_pipeline(query):
         return answer
 
 # API endpoint for FAQ
-@app.route("/")
+@app.route("/hello")
 def hello():
      return "server is live"
 
-@app.route("/faq", methods=["POST"])
+@app.route("/", methods=["POST"])
 def faq():
     try:
         query = request.json.get("query", "")
