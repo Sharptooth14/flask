@@ -1,0 +1,42 @@
+[
+    {
+        "question": "What does DocXter do?",
+        "answer": "DocXter eats up and analyzes books, e-books, research papers, reports, documents etc. and crunches it to give absolutely precise and relevant answers within the document's context."
+    },
+    {
+        "question": "Is DocXter FREE?",
+        "answer": "Yes, DocXter is completely free to use upto a certain limit. Post that, you can extend your capabilities with the paid subscription."
+    },
+    {
+        "question": "What types of documents does DocXter support?",
+        "answer": "DocXter currently supports doc, docx, pdf, pptx and txt. We're on the verge of adding more file types like images, videos, xlsx, scanned documents, OCR, and more."
+    },
+    {
+        "question": "Are there any limits to the number of documents I can upload?",
+        "answer": "Yes, for anonymous users, the document limit is 1/day. For signed in (and verified) users, it is 2/day. Unlock unlimited document uploads and processing per day by upgrading to the paid plan!"
+    },
+    {
+        "question": "Can DocXter really help, how?",
+        "answer": "AI is here and it's here to help us grow, learn, and evolve faster. DocXter is a modern tool for smart people. It's for people who value their time, love learning, and of course, futuristic technologies."
+    },
+    {
+        "question": "Does DocXter support multiple languages?",
+        "answer": "DocXter speaks in 15+ languages, including Hindi and Hinghlish"
+    },
+    {
+        "question": "Who can use DocXter?",
+        "answer": "It's for people who want to do more with their time. For people who want to use the latest in tech to evolve their capabilities. Students/Individuals/Businesses, it's for those who value their time, believe in the power of technology, and a smart future. The choice is yours!"
+    },
+    {
+        "question": "Can I ask questions about specific sections or paragraphs within my documents?",
+        "answer": "Yes, DocXter can answer about specific section(s), paragraph(s), or complete document. All the power lies with you, while DocXter does exactly what you want it to."
+    },
+    {
+        "question": "Is my data secure when using DocXter?",
+        "answer": "Fear not! Your data is completely secured with DocXter. For more information, check out the privacy policy page."
+    },
+    {
+        "question": "What are some potential applications of DocXter?",
+        "answer": "DocXter is built on a highly versatile generative AI model, named FosterX. It can be easily molded to work as a smart AI-ssistant, Shopkeeper (e-store Shopping Assistant, Manager, etc.), Onboarding Specialist, Customer Support aid, and much more. Contact us to know how you can use the power of AI in your company, organization, brand, etc."
+    }
+]
