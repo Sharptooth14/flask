@@ -83,6 +83,10 @@ def rag_pipeline(query):
         return answer
 
 # API endpoint for FAQ
+@app.route("/")
+def hello():
+     return "server is live"
+
 @app.route("/faq", methods=["POST"])
 def faq():
     try:
